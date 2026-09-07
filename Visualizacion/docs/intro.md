@@ -1,4 +1,4 @@
-# AYUDA SOCIO ME VAN A ROBAR
+# King+Rook vs King+Pawn on a7 (KRKPA7)
 
 This is a small sample book to give you a feel for how book content is
 structured.
